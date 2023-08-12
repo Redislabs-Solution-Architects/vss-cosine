@@ -1,3 +1,4 @@
 .env
 .venv
 misc/
+node_modules/
